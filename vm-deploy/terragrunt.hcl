@@ -46,7 +46,3 @@ locals {
   }
 }
 
-
-/iac-run-dir/output/k8s-deploy/inventory
-/iac-run-dir/output/k8s-deploy/sshkey
-https://app.netbird.io:443
